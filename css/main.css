@@ -1,0 +1,92 @@
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+.head__tit{
+    color: blue;
+}
+.inp{
+    color: aliceblue;
+    background-color: blueviolet;
+    padding: 13px 45px;
+    border-radius: 6px;
+    border: none;
+}
+.btn{
+    padding: 11px 40px;
+    background-color: brown;
+    border-radius: 12px;
+    border: none;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+}
+.list__item{
+    width: 150px;
+    height: 150px;
+    background-color: cadetblue;
+}
+.title{
+    color: black;
+    text-align: center;
+}
+.text_1{
+    color: black;
+    text-align: center;
+}
+.text_2{
+    color: black;
+    text-align: center;
+}
+.text_3{
+    color: black;
+    text-align: center;
+}
+.text_4{
+    color: black;
+    text-align: center;
+}
+.hidden{
+    display: none;
+    color: #000;
+    text-align: center;
+    margin-bottom: 12px;
+}
+.hidden_2{
+    display: none;
+    color: #000;
+    text-align: center;
+    margin-bottom: 12px;
+
+}
+.hidden_3{
+    display: none;
+    color: #000;
+    text-align: center;
+    margin-bottom: 12px;
+
+}
+.hidden_4{
+    display: none;
+    color: #000;
+    text-align: center;
+    margin-bottom: 12px;
+
+}
+.nohidden{
+    display: block;
+}
+.Tez{
+    color: #000;
+    text-align: center;
+    font-size: 30px;
+}
